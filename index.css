@@ -1,0 +1,28 @@
+.nav {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(3, 100px);
+ 
+}
+
+h1 {
+    color: red;
+}
+
+h1, h2, p, section {
+    text-align: center;
+}
+
+section {
+    margin: 0 auto;
+    width: 40%;
+    border: 2px solid black;
+}
+
+
+#aboutme {
+    width: 37%;
+}
+
+
